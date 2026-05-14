@@ -1,0 +1,8 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/yeee123/TVbox.json/main/config.json",
+      "name": "榛樿閰嶇疆"
+    }
+  ]
+}
