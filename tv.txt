@@ -1,8 +1,52 @@
 {
   "urls": [
     {
-      "url": "https://raw.githubusercontent.com/yeee123/TVbox.json/main/config.json",
-      "name": "榛樿閰嶇疆"
+      "url": "https://fty.xxooo.cf/tv",
+      "name": "馃殌鈶犻キ澶‖绾胯矾"
+    },
+    {
+      "url": "http://鎴戜笉鏄?鎽搁奔鍎?com",
+      "name": "馃殌鈶℃懜楸肩嚎璺?
+    },
+    {
+      "url": "http://tv.nxog.top/m",
+      "name": "馃殌鈶㈣姝岀嚎璺?
+    },
+    {
+      "url": "http://鑲ョ尗.com",
+      "name": "馃殌鈶ｈ偉鐚嚎璺?
+    },
+    {
+      "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
+      "name": "馃殌鈶ょ湡蹇冪嚎璺?
+    },
+    {
+      "url": "http://ok321.top/tv",
+      "name": "馃殌鈶K绾胯矾"
+    },
+    {
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json",
+      "name": "馃殌鈶﹂闆呮儏绾胯矾"
+    },
+    {
+      "url": "http://rihou.cc:555/nzk/nzk0722.json",
+      "name": "馃殌鈶浣嚎璺?
+    },
+    {
+      "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
+      "name": "馃殌鈶ㄧ煭鍓х嚎璺?
+    },
+    {
+      "url": "http://tvbox.鐜嬩簩灏忔斁鐗涘▋.top",
+      "name": "馃殌鈶╃帇浜屽皬绾胯矾"
+    },
+    {
+      "url": "http://tv.laohu.cool/tvbox.json",
+      "name": "馃殌鈶€佽檸绾胯矾"
+    },
+    {
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+      "name": "馃殌鈶€佸垬澶囩嚎璺?
     }
   ]
 }
